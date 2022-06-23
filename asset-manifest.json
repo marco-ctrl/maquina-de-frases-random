@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/maquina-de-frases-random/static/css/main.772c13ab.css",
+    "main.js": "/maquina-de-frases-random/static/js/main.92480015.js",
+    "index.html": "/maquina-de-frases-random/index.html",
+    "main.772c13ab.css.map": "/maquina-de-frases-random/static/css/main.772c13ab.css.map",
+    "main.92480015.js.map": "/maquina-de-frases-random/static/js/main.92480015.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.772c13ab.css",
+    "static/js/main.92480015.js"
+  ]
+}
