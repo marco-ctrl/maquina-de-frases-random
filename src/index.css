@@ -31,6 +31,7 @@ div {
   padding: 40px 50px;
   display: table;
   background-color: #fff;
+  box-shadow: 1px 3px 13px 1px rgb(0 0 0 / 9%);
 }
 
 #quote-box .quote-text {
